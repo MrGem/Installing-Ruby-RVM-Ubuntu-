@@ -8,5 +8,7 @@ Then Type in the following commands to install both of them.
 <p1>sudo apt-get install ruby</p1>
 <h3>Install RVM</h3>
 <p2>sudo apt-add-repository -y ppa:rael-gc/rvm</p2>
+</br>
 <p3>sudo apt-get update</p3>
+</br>
 <p4>sudo apt-egt install rvm</p4>
